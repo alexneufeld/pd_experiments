@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient6" x1="2.3879" x2=".011901" y1="7.9458" y2="15.081" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5089c7" offset="0"/>
+   <stop stop-color="#204a87" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient9" x1="2.1361" x2="8.8434" y1="8.288" y2="2.3283" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#265390" offset="0"/>
+   <stop stop-color="#729fcf" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient12" x1=".65046" x2=".99715" y1="12.835" y2="9.6701" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e50000" offset="0"/>
+   <stop stop-color="#790000" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m3.8877 10.232-0.27769-2.0293 0.72627-1.7943 1.1535-1.5593 2.0293-0.87579 1.6661-0.19225 1.4312 0.51266-2.6487-2.8196-1.7089-0.85443-1.837 0.064082-1.9866 0.91851-1.1962 1.4525-0.57674 1.3457-0.021361 2.0506 0.89715 1.4525z" fill="url(#linearGradient9)"/>
+ <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m7.6156 1.7306 1.6507 1.6956s-2.1522-0.74517-4.4329 1.4299c-2.2808 2.175-1.6615 4.0555-1.6615 4.0555l-1.8578-1.9711s-1.231-2.5149 1.2763-4.8258c2.5073-2.311 5.0253-0.38401 5.0253-0.38401z" stroke="#729fcf" stroke-width=".529"/>
+  <g stroke="#0b1521">
+   <path transform="matrix(.76332 -.64602 .6449 .76427 0 0)" d="m-3.9961 6.6391a4.5958 3.9004 0 0 1 4.2903-3.8532 4.5958 3.9004 0 0 1 4.8543 3.3365" stroke-width=".52917"/>
+   <path d="m11.449 4.9557-3.5032-3.5672" stroke-width=".52917"/>
+   <path d="m4.144 10.552-3.14-3.1828" stroke-width=".52917"/>
+  </g>
+ </g>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <ellipse transform="matrix(.76332 -.64602 .6449 .76427 0 0)" cx=".9204" cy="11.225" rx="4.5958" ry="3.9004" fill="url(#linearGradient6)" stroke="#0b1521" stroke-width=".52917"/>
+  <ellipse transform="matrix(.7641 -.64509 .64583 .76348 0 0)" cx=".90677" cy="11.224" rx="1.7348" ry="1.4716" fill="url(#linearGradient12)" stroke="#0b1521" stroke-width=".52917"/>
+  <ellipse transform="matrix(.76338 -.64595 .64498 .7642 0 0)" cx=".91929" cy="11.225" rx="4.0587" ry="3.4444" fill="none" stroke="#3465a4" stroke-width=".52917"/>
+  <path d="m9.4779 8.2695-1.6531-0.46415-0.15874 1.7645" fill="none" stroke="#0b1521" stroke-width=".529"/>
+ </g>
+</svg>
